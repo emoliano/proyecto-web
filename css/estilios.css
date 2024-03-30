@@ -1,0 +1,67 @@
+* {
+    margin:0;
+    padding: 25px;
+    }
+   
+    body{
+    background-color:rgb(37, 6, 23);
+    color: rgba(10, 6, 32, 0.425);
+    }
+    ul{
+    text-align:center;
+    padding:10px;
+    }
+    li{
+    display:inline;
+    padding:10px 30px;
+    margin: 3em;
+    }
+    li a :hover{
+    color:crimson;
+    font-size: 20px;
+    text-decoration: none;
+    list-style:none;
+    }
+   
+    #contenedor{
+    width:900px;
+    height:15000px;
+    background-color:bisque;
+    margin:10px;
+    padding:20px;
+    
+    }
+    #encabezado{
+    width:90%;
+    background-color:blanchelmond;
+    margin:lem;
+    text-align:center;
+    border-radius:5px;
+    }
+    #menu{
+    height:40px;
+    background-color:morado;
+    margin:1em
+    border radius 5px;
+    }
+  
+    .img{
+    width:50% ;
+    justify-items:center;
+    
+    
+    }
+    
+    .texto{
+    text-align:justify;
+    font-family: ¨segoe Ui¨
+    font-size ; 
+    padding:5px,25px;
+    color:morado;
+    
+    }
+    #pie{
+    height:60px;
+    background-color:naranja;
+    margin:10px;
+    }
