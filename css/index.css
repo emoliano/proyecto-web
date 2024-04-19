@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding: 0;
+    }
+   
+    body{
+    background-color:rgb(15, 14, 15);
+    color: rgba(255, 255, 255, 0.986);
+    }
+
+    img{
+        display:block;
+        margin: 25px;
+        width: 400px;
+        height: 200px;
+        }
+
+        .center-image {
+            display: block; 
+            margin: 0 auto; 
+          }
+          
+       
+        p {
+            border: white 8px groove;
+          }
+
+        
+
+       
+        
